@@ -1,0 +1,653 @@
+IssueID,Repo,Number(sequence No. in the current repo),TDType,QA
+457429443,zuzakistan/civilservant,286,Design TD,Performance efficiency
+413019078,zooniverse/caesar,629,Infrastructure TD,Maintainability 
+169799993,zerogerc/loudly,41,Design TD,Usability
+384386523,zerobandwidth-net/android,58,Architectural TD,Reliability
+550706227,Yoast/wordpress-seo,14218,designTD,Maintainability
+402586022,Yoast/wordpress-seo,12095,Design TD,Reliability
+349784656,yesmar/rm,4,Documentation TD,Usability 
+43595475,Workiva/wGulp,39,Architectural TD,Maintainability
+51133312,wordpress-mobile/WordPress-Editor-iOS,440,Design TD,Maintainability
+775784978,woocommerce/woocommerce-ios,3413,Design TD,Usability
+570995309,woocommerce/woocommerce-ios,1899,Code TD,Maintainability
+553898948,woocommerce/woocommerce-ios,1765,Test TD,Maintainability
+546829592,woocommerce/woocommerce-ios,1709,Design TD,Functional suitability
+748145661,wishlists/wishlists,107,Architectural TD,Maintainability
+54794682,willia4/bookclub,24,Architectural TD,Maintainability
+422889183,WikiWatershed/model-my-watershed,3100,Architectural TD,Maintainability
+161620616,WebApiContrib/WebAPIContrib.Core,26,Architectural TD,Maintainability
+512468663,weaveworks/ui-components,491,Architectural TD,Maintainability
+131635285,weaveworks/scope,934,Architectural TD,Maintainability
+105773729,weaveworks/scope,475,Build TD,Maintainability
+104501193,weaveworks/scope,427,Test TD,Reliability
+428031496,weaveworks/eksctl,692,Design TD,Maintainability
+473254062,weaveworks/eksctl,1065,Design,Maintainability
+197792352,wangshuangkc/CHED-Talks,31,Design TD,Maintainability 
+619401976,rapidsai/cudf,5211,Code TD,Maintainability
+478557600,VowpalWabbit/vowpal_wabbit,2004,Design TD,Reliability
+476965226,VowpalWabbit/vowpal_wabbit,1991,Architectural TD,Maintainability
+440810738,VowpalWabbit/vowpal_wabbit,1863,Design TD,Maintainability
+443883107,vmware/terraform-provider-vcd,239,Design TD,Functional suitability
+360506637,vkoves/carpe,337,Infrastructure TD,Maintainability
+648748064,VirtusLab/git-machete-intellij-plugin,394,Design TD,Maintainability
+549606537,VirtusLab/git-machete-intellij-plugin,38,Infrastructure TD,Maintainability
+351727599,veteransaffairscanada/vac-benefits-directory,951,Design TD,Usability
+90790091,vertical-knowledge/ripozo,23,Design TD,Maintainability
+233651937,uspgamedev/ugdk,63,Code TD,Reliability
+131116137,ushahidi/platform,885,Test TD,Maintainability
+102579191,ushahidi/platform,505,Test TD,Maintainability
+360972819,ushahidi/platform,3295,Defect TD,Reliability
+311703863,ushahidi/platform,2701,Design TD,Usability 
+255051811,ushahidi/platform,2036,Defect TD,Reliability
+222928200,ushahidi/platform,1703,Code TD,Usability
+226284694,usgs/earthquake-hazard-tool,248,Test TD,Maintainability
+613391608,UPchieve/web,411,Architectural TD,Maintainability
+522585234,UPchieve/web,273,Test TD,Maintainability
+649110375,unitaryfund/mitiq,224,Defect TD,Reliability
+658492877,unfoldingWord/tc-create-app,220,Design TD,Performance efficiency
+570824083,UMAprotocol/protocol,969,Architectural TD,Reliability
+567612595,UMAprotocol/protocol,941,Architectural TD,Maintainability
+350315267,tsoding/ray-tracer,47,Infrastructure TD,Compatibility
+293863250,trimox/angular-mdc-web,593,Design TD,Maintainability
+58478952,travi/php-framework,91,Infrastructure TD,Portability
+522193679,tranquilitybase-io/tb-gcp,33,Test TD,Maintainability
+479020175,tracim/tracim,2186,Design TD,Maintainability
+376763913,tracim/tracim,1104,Design TD,Maintainability
+449180693,todorm85/Sf-PoSh,52,Defect TD,Reliability
+412276767,todorm85/Sf-PoSh,23,Defect TD,Reliability
+277547594,thomaswilburn/Caret,612,Design TD,Functional suitability
+143016392,TheThingsNetwork/ttn,86,Design TD,Maintainability
+218759758,TheThingsNetwork/ttn,543,Architectural TD,Functional suitability
+645583755,TheThingsNetwork/lorawan-stack,2798,Architectural TD,Compatibility
+556744445,TheThingsNetwork/lorawan-example-atecc608a-tnglora,4,Design TD,Maintainability
+383675777,the-blue-alliance/the-blue-alliance-ios,307,Architectural TD,Maintainability
+506283207,TerrorBite/textgame,5,Architectural TD,Maintainability
+444576237,tern-tools/tern,271,Design TD,Functional suitability
+774754772,Terkwood/delta-pack,17,Architectural TD,Maintainability
+492970831,Terkwood/BUGOUT,111,Design TD,Reliability
+475062793,tempertemper/tempertemper.net,98,Infrastructure TD,Maintainability 
+151099680,telefonicaid/perseo-fe,143,Design TD,Usability
+171385267,telefonicaid/iotagent-manager,20,Documentation TD,Maintainability
+49446679,telefonicaid/fiware-orion,650,Defect TD,Reliability
+111915104,telefonicaid/fiware-orion,1380,Design TD,Reliability
+197150154,telefonicaid/fiware-cygnus,1354,Architectural TD,Maintainability
+184760325,telefonicaid/fiware-cygnus,1239,Architectural TD,Functional suitability
+124967613,telefonicaid/fiware-cosmos,139,Design TD,Maintainability
+122258537,telefonicaid/fiware-cosmos,130,Code TD,Usability
+652463180,tasitlabs/tasit-sdk,500,Architectural TD,Portability
+440112426,tasitlabs/tasit-sdk,380,Architectural TD,Reliability
+399119459,tasitlabs/tasit-sdk,107,Infrastructure TD,Maintainability
+492215688,tarantool/cartridge,195,Design TD,Usability
+608787671,Talentica/simpleblockchain,43,Code TD,Reliability
+677669594,syphon-org/syphon,166,Architectural TD,Maintainability
+516638880,swapmyvote/swapmyvote,35,Infrastructure TD,Security
+629167879,surevine/govuk-react-jsx,68,Design TD,Maintainability
+142965751,sulu/sulu,2162,Design TD,Maintainability
+100603416,sul-dlss-deprecated/was-thumbnail-service,15,Architectural TD,Performance efficiency
+178976143,sul-dlss-deprecated/modsulator-app,11,Infrastructure TD,Maintainability
+212612126,sul-dlss/swap,18,Architectural TD,Maintainability
+180966008,sul-dlss/sul-requests,553,Architectural TD,Functional suitability
+171541965,sul-dlss/sul-embed,651,Design TD,Usability
+172014291,sul-dlss/stacks,92,Design TD,Functional suitability
+33710397,sul-dlss/SearchWorks,107,Test TD,Reliability
+300753383,sul-dlss/preservation_robots,11,Architectural TD,Reliability
+195661703,sul-dlss/openwayback,21,Architectural TD,Maintainability
+173323841,sul-dlss/media,119,Documentation TD,Maintainability 
+171300094,sul-dlss/media,113,Design TD,Maintainability
+263290705,sul-dlss/exhibits,689,Infrastructure TD,Performance efficiency
+480819489,sul-dlss/dor-services-app,322,Code TD,Maintainability
+443900381,sul-dlss/dor-services-app,267,Architectural TD,Maintainability
+188790151,sul-dlss/dor_indexing_app,89,Infrastructure TD,Portability
+243631636,strongloop-community/loopback-connector-elastic-search,102,Defect TD,Functional suitability
+304409370,strongloop/loopback-next,1117,Architectural TD,Maintainability
+605021621,streamdevs/webhook,128,Test TD,Maintainability
+485448311,stoplightio/spectral,494,Design TD,Functional suitability
+592050302,stern-devops-2020-inventory/inventory,48,Test TD,Reliability
+267954303,status-im/status-react,2287,Design TD,Maintainability
+322741501,spine-examples/todo-list,62,Design TD,Maintainability
+560627017,spacetx/starfish,1776,Test TD,Maintainability
+560582585,spacetx/starfish,1768,Test TD,Maintainability
+583119987,spacemeshos/go-spacemesh,1903,Design TD,Security
+483428704,spacemeshos/go-spacemesh,1354,Architectural TD,Performance efficiency
+452443075,sourcegraph/sourcegraph,4377,Test TD,Maintainability
+398709038,sourcegraph/sourcegraph,1854,Documentation TD,Maintainability 
+754095071,sourcegraph/sourcegraph,16273,Design TD,Maintainability
+220457112,sourcegraph/javascript-typescript-langserver,149,Design TD,Performance efficiency
+488145676,SonicOriginalSoftware/GamerSaver,36,Code TD,Maintainability
+17500533,SomMeri/less4j,156,Build TD,Maintainability 
+232291937,SolutionGuidance/psm,57,Architectural TD,Maintainability
+236583723,SolutionGuidance/psm,165,Design TD,Maintainability
+225754795,SolutionGuidance/psm,16,Infrastructure TD,Maintainability
+717921998,SmartBear/git-en-boite,262,Infrastructure TD,Maintainability
+613761486,smallstep/certificates,250,Architectural TD,Functional suitability
+376685361,simplabs/simplabs.github.io,223,Design TD,Maintainability
+244889284,shreepads/scribrbot,5,Design TD,Maintainability
+244902723,shreepads/scribrbot,12,Design TD,Performance efficiency
+561981721,shlinkio/shlink-web-client,203,Architectural TD,Maintainability
+325866754,sensu/sensu-go,1598,Test TD,Maintainability
+316903388,sensu/sensu-go,1355,Architectural TD,Maintainability
+391784951,semi-technologies/weaviate,642,Test TD,Reliability
+559582394,SelfKeyFoundation/Identity-Wallet,2027,Architectural TD,Maintainability
+492177395,ScottLogic/StockFlux,1259,Design TD,Maintainability
+298065529,scionaltera/redemption,17,Architectural TD,Portability
+391337548,scionaltera/arbitrader,15,Test TD,Maintainability 
+655483094,sanderkrause/geekbase,20,Design TD,Maintainability
+219023249,samvera-labs/dog_biscuits,17,Test TD,Maintainability
+199955817,samvera-deprecated/sufia,3005,Design TD,Maintainability
+151692842,samvera-deprecated/sufia,1936,Architectural TD,Maintainability
+295264119,samvera/hyrax,2630,Test TD,Maintainability 
+291571296,samvera/hyrax,2568,Infrastructure TD,Portability
+185166454,salte-io/dry-parser,73,Build TD,Maintainability 
+587830925,salesforce/bazel-springboot-rule,27,Architectural TD,Reliability
+424278357,rubberduck-vba/Rubberduck,4872,Infrastructure TD,Compatibility
+400892908,rubberduck-vba/Rubberduck,4723,Architectural TD,Maintainability 
+369893494,rubberduck-vba/Rubberduck,4435,Code TD,Maintainability
+690079853,rs-ipfs/rust-ipfs,352,Code TD,Functional suitability
+648129227,ripple/rippled,3468,Defect TD,Reliability
+150241622,rice-apps/scheduleplanner,19,Design TD,Maintainability
+516522806,ricardoalcaraz/Productivize.me,22,Architectural TD,Performance efficiency
+100337331,refinery-platform/refinery-platform,589,Architectural TD,Maintainability
+100166880,refinery-platform/refinery-platform,588,Defect TD,Reliability
+401878198,refinery-platform/refinery-platform,3180,Architectural TD,Portability
+148707240,refinery-platform/refinery-platform,1016,Architectural TD,Functional suitability
+489391065,redhat-developer/vscode-quarkus,64,Test TD,Maintainability
+666186666,redhat-cop/pelorus,151,Deployment TD,Maintainability
+100578417,redcross/smoke-alarm-portal,99,Code TD,Reliability
+238027227,redbluegames/unity-mulligan-renamer,64,Design TD,Maintainability
+314363728,redbluegames/unity-mulligan-renamer,161,Design TD,Maintainability 
+280282285,RealismusModding/FS17_seasons,689,Design TD,Maintainability
+204041459,RealismusModding/FS17_seasons,128,Design TD,Maintainability
+174105539,react-page/react-page,143,Design TD,Maintainability
+434904922,raster-foundry/raster-foundry,4883,Test TD,Maintainability
+369568584,raster-foundry/raster-foundry,4202,Design TD,Portability
+311640383,raster-foundry/raster-foundry,3133,Design TD,Reliability
+275842597,raster-foundry/raster-foundry,2729,Architectural TD,Security
+578588092,rapidsai/cuml,1841,Architectural TD,Portability
+644884161,rapidsai/cudf,5571,Test TD,Maintainability
+417460968,rapidsai/cudf,1099,Build TD,Performance efficiency
+40207482,rafecolton/docker-builder,112,Test TD,Security
+182331320,punchcard-cms/punchcard,487,Architectural TD,Maintainability
+450450774,pubpub/pubpub,370,Design TD,Maintainability
+117467190,Protobuild/Protobuild,131,Architectural TD,Maintainability
+55300706,projectblacklight/spotlight,893,Architectural TD,Performance efficiency
+499954744,Products-Squad/products,12,Design TD,Reliability
+42150712,polyphony-ot/libot,19,Test TD,Maintainability
+742993427,polyaxon/polyaxon,1162,Infrastructure TD,Maintainability
+183587640,pokedextracker/pokedextracker.com,184,Architectural TD,Maintainability
+406980201,podStation/podStation,11,Infrastructure TD,Maintainability
+382991809,plan-player-analytics/Plan,817,Architectural TD,Reliability
+341331792,php-coder/mystamps,922,Design TD,Maintainability 
+341265184,php-coder/mystamps,903,Test TD,Maintainability
+294115226,php-coder/mystamps,836,Test TD,Maintainability
+278629623,php-coder/mystamps,724,Design TD,Security
+273960636,php-coder/mystamps,701,Design TD,Security
+42931456,php-coder/mystamps,58,Test TD,Functional suitability
+211876941,php-coder/mystamps,541,Infrastructure TD,Functional suitability
+197892750,php-coder/mystamps,521,Test TD,Maintainability 
+627796613,php-coder/mystamps,1419,Design TD,Functional suitability
+623954163,php-coder/mystamps,1412,Design TD,Reliability
+622806984,php-coder/mystamps,1401,Test TD,Maintainability
+612036550,php-coder/mystamps,1385,Test TD,Maintainability
+608662857,php-coder/mystamps,1367,Code TD,Maintainability
+510928662,php-coder/mystamps,1135,Architectural TD,Maintainability
+498229568,Pepcus/yjsgUI,214,Architectural TD,Maintainability
+643938982,PathwayCommons/factoid,760,Design TD,Maintainability
+172606803,paragonie/airship,127,Architectural TD,Maintainability
+541388317,pallene-lang/pallene,150,Design TD,Maintainability
+623804706,padamchopra/habitus,15,Design TD,Maintainability
+174847114,pachyderm/pachyderm,776,Test TD,Maintainability 
+258161765,pachyderm/pachyderm,2301,Test TD,Maintainability
+230558220,pachyderm/pachyderm,1863,Test TD,Maintainability
+204390891,pachyderm/pachyderm,1295,Test TD,Reliability
+687921132,pace-neutrons/Horace,337,Test TD,Maintainability
+367085266,owncloud/testing,36,Test TD,Maintainability
+367046051,owncloud/data_exporter,34,Test TD,Maintainability
+35941582,owncloud/core,9078,Design TD,Maintainability
+334419637,owncloud/core,31854,Test TD,Maintainability
+243664240,owncloud/core,28428,Architectural TD,Performance efficiency
+181117734,owncloud/core,26280,Test TD,Maintainability
+132158986,owncloud/core,22209,Architectural TD,Portability
+54758274,owncloud/core,13459,Test TD,Maintainability
+52139543,owncloud/core,12885,Test TD,Maintainability
+50968076,owncloud/core,12615,Design TD,Maintainability
+50802613,owncloud/core,12566,Build TD,Maintainability
+49676000,owncloud/core,12346,Design TD,Maintainability
+47576943,owncloud/core,11915,Architectural TD,Security
+47214886,owncloud/core,11857,Architectural TD,Security
+554900361,overload-development-community/otl-bot,161,Design TD,Maintainability 
+23574016,ouroboros-project/ouroboros,17,Code TD,Reliability
+277639607,osmlab/to-fix-backend,250,Documentation TD,Maintainability
+374368107,oscoin/oscoin,304,Design TD,Maintainability
+736023220,orange-cloudfoundry/paas-templates,997,Test TD,Maintainability
+506506782,orange-cloudfoundry/cf-ops-automation-broker,203,Design TD,Maintainability 
+306828590,orange-cloudfoundry/cf-ops-automation,111,Architectural TD,Functional suitability
+454402845,orange-buffalo/simple-accounting,96,Design TD,Usability
+733606767,orange-buffalo/simple-accounting,264,Design TD,Maintainability
+493678839,orange-buffalo/simple-accounting,112,Design TD,Performance efficiency
+447444111,openzipkin/zipkin,2610,Design TD,Maintainability
+303469166,OpenUnirest/unirest-java,9,Test TD,Maintainability
+185705832,opentrials/opentrials,530,Design TD,Reliability
+497301059,opensocsysarch/CoreGenPortal,75,Design TD,Maintainability
+298046130,openshift/ansible-service-broker,771,Design TD,Performance efficiency
+475261498,openmobilityfoundation/mds-core,89,Architectural TD,Security
+496045123,OpenLiberty/open-liberty,9058,Test TD,Maintainability
+158507522,openhealthcare/opal,651,Versioning TD,Maintainability
+753971103,opengovsg/GoGovSG,988,Design TD,Functional suitability
+132865777,openfoodfoundation/openfoodnetwork,823,Code TD,Reliability
+777136665,openfoodfoundation/openfoodnetwork,6586,Build TD,Maintainability
+701967805,openfoodfoundation/openfoodnetwork,6030,Defect TD,Functional suitability
+646695286,openfoodfoundation/openfoodnetwork,5691,Design TD,Maintainability
+569329643,openfoodfoundation/openfoodnetwork,4826,Architectural TD,Maintainability 
+524953000,openfoodfoundation/openfoodnetwork,4474,Design TD,Maintainability
+438077128,openfoodfoundation/openfoodnetwork,3759,Defect TD,Reliability
+404545881,openfoodfoundation/openfoodnetwork,3405,Design TD,Maintainability
+382556670,openfoodfoundation/openfoodnetwork,3084,Architectural TD,Maintainability
+381525524,openfoodfoundation/openfoodnetwork,3059,Defect TD,Reliability
+365924931,openfoodfoundation/openfoodnetwork,2807,Design TD,Maintainability
+681122644,opencollective/opencollective,3413,Code TD,Maintainability
+579163985,opencollective/opencollective,2976,Architechtral TD,Maintainability
+545439775,opencollective/opencollective,2772,Test TD,Maintainability
+459149546,opencollective/opencollective,2146,Architectural TD,Portability
+459140656,opencollective/opencollective,2145,Architectural TD,Maintainability
+444784652,opencollective/opencollective,2036,Architectural TD,Maintainability
+722175335,openactive/openactive-test-suite,247,Design TD,Maintainability
+742971201,omegaml/omegaml,128,Defect TD,Reliability
+394613588,NZFurs/Login,19,Design TD,Maintainability
+388517404,NYU-Wishlists/wishlists,114,Build TD,Maintainability
+366518895,NYUDevOps-Fall18-Shopcarts/shopcarts,12,Test TD,Functional suitability
+383357097,NYUDevOps-Fall18-Recommendations/recommendations,75,Architectural TD,Functional suitability
+577123257,nyu-devops-wishlists/wishlists,27,Infrastructure TD,Maintainability
+736544790,nyu-devops-team/customers,68,Test TD,Maintainability
+572317270,nyu-devops-shopcarts/shopcarts,9,Design TD,Maintainability
+599606069,nyu-devops-shopcarts/shopcarts,84,Test TD,Maintainability
+593522987,nyu-devops-shopcarts/shopcarts,61,Design TD,Reliability
+275748229,nyu-devops-payments-2017/payments,48,Architectural TD,Maintainability
+503041703,nyu-devops-fall19-suppliers/suppliers,39,Architectural TD,Portability
+516273593,NYU-DevOps-Fall19-Payments-Team/payments,85,Test TD,Maintainability
+366472581,nyu-devops-fall18/products,3,Infrastructure TD,Maintainability
+514944177,nyu-devops-fa19/customers,61,Test TD,Maintainability
+278812682,nyu-devops-echo/shopcarts,96,Documentation TD,Usability
+262822981,nyu-devops-echo/shopcarts,16,Architectural TD,Maintainability
+222974829,NYU-DevOps-Charlie-CSCI-GA-3033-013/products,53,Test TD,Reliability
+758701514,NYU-Devops-2020-Orders-Team/orders,131,Requirements TD,Usability
+2154749,nragaz/check_out,1,Test TD,Maintainability 
+608440792,NodeBB/NodeBB,8277,Code TD,Reliability
+693997463,Nitrate/Nitrate,771,Design TD,Maintainability
+261293852,nilenso/time-tracker-web-nxt,25,Build TD,Compatibility
+541779075,ni/niveristand-routing-and-faulting-custom-device,174,Design TD,Maintainability
+244998580,nextcloud/server,5849,Design TD,Maintainability
+399260766,nextcloud/server,13601,Defect TD,Reliability
+376920124,nextcloud/server,12224,Architectural TD,Maintainability
+174949642,nextcloud/gallery,144,Architectural TD,Maintainability
+462809302,neontribe/www,194,Design TD,Maintainability
+67201529,neelbhat88/imuadev,821,Design TD,Functional suitability
+245019382,NCI-Agency/anet,80,Architectural TD,Maintainability
+138493894,NAVADMC/ADSM,730,Test TD,Maintainability
+52305145,NAVADMC/ADSM,369,Architectural TD,Performance efficiency
+276348875,muraha/WebSite-Test-2-HW2-,9,Build TD,Reliability
+664218267,mtrenker/clean.dev,14,Design TD,Maintainability
+252946374,mozilla/testpilot,2819,Infrastructure TD,Maintainability
+39000642,mozilla/makedrive,167,Architectural TD,Reliability
+10801761,mozilla/blushproof,22,Design TD,Maintainability
+376439394,MotusDev/Motus-TO-DO,397,Design TD,Maintainability
+543066916,Moody-Tunes/moodytunes,267,Architectural TD,Performance efficiency
+142599043,molgenis/molgenis,4701,Defect TD,Reliability
+212552242,mitodl/salt-ops,249,Test TD,Maintainability
+435202443,mitodl/open-discussions,1958,Infrastructure TD,Compatibility
+760495962,mitodl/ocw-data-parser,112,Architectural TD,Maintainability
+170730078,mitodl/micromasters,834,Architectural TD,Security
+244793405,mitodl/micromasters,3428,Test TD,Maintainability
+238554903,mitodl/micromasters,3339,Defect TD,Reliability
+359700929,mit-cml/appinventor-sources,1356,Design TD,Maintainability
+391117965,mirumee/saleor-storefront,172,Code TD,Maintainability
+495042662,mirumee/saleor,4744,Architectural TD,Maintainability
+454334824,mirumee/saleor,4248,Design TD,Maintainability 
+295091834,mirumee/saleor,1759,Design TD,Maintainability
+224156707,microsoft/vscode-eslint,231,Documentation TD,Maintainability
+587319868,microsoft/vscode,93332,Architectural TD,Functional suitability
+583900374,microsoft/vscode,92949,Design TD,Usability
+563133988,microsoft/vscode,90441,Design TD,Maintainability
+450634002,microsoft/vscode,74661,Design TD,Performance efficiency
+437220103,microsoft/vscode,72866,Design TD,Maintainability
+158317997,microsoft/vscode,7176,Architectural TD,Maintainability
+420146040,microsoft/vscode,70330,Code TD,Reliability
+418730287,microsoft/vscode,70039,Documentation TD,Maintainability
+403596922,microsoft/vscode,67191,Code TD,Reliability
+153024382,microsoft/vscode,6093,Architectural TD,Maintainability
+368868165,microsoft/vscode,60565,Code TD,Reliability
+344837318,microsoft/vscode,55150,Requirements TD,Usability
+334092251,microsoft/vscode,52484,Design TD,Usability
+322382749,microsoft/vscode,49713,Infrastructure TD,Portability
+275329551,microsoft/vscode,38776,Architectural TD,Maintainability
+249433506,microsoft/vscode,32241,Architectural TD,Maintainability
+238549413,microsoft/vscode,29460,Architectural TD,Maintainability
+212384004,microsoft/vscode,22138,Architectural TD,Maintainability
+207018351,microsoft/vscode,20488,Defect TD,Functional suitability
+200397056,microsoft/vscode,18458,Design TD,Usability
+188421148,microsoft/vscode,15277,Test TD,Maintainability 
+184823536,microsoft/vscode,14275,Design TD,Maintainability
+174731634,microsoft/vscode,11444,Test TD,Maintainability 
+728139912,microsoft/vscode,109231,Design TD,Reliability
+379916896,microsoft/VoTT,290,Test TD,Maintainability
+439355525,microsoft/PTVS,5275,Defect TD,Reliability
+539930744,microsoft/BotFramework-WebChat,2764,Test TD,Maintainability
+519509686,microsoft/BotFramework-WebChat,2575,Test TD,Maintainability
+732557312,microsoft/botframework-solutions,3696,Design TD,Maintainability
+704904267,mendahu/off-nominal-book-club,102,Architectural TD,Maintainability
+507904415,Medology/gherkin-cs-fixer,7,Architectural TD,Usability
+428439722,Medology/FlexibleMink,243,Architectural TD,Maintainability 
+431641139,material-components/material-components-web,4589,Design TD,Maintainability
+357002800,material-components/material-components-web,3508,Code TD,Reliability
+249179300,material-components/material-components-web,1104,Design TD,Maintainability
+133706562,marek-saji/suchbot,24,Architectural TD,Maintainability
+550419818,marcelomorgado/fyght,1,Architectural TD,Maintainability
+315446100,ManiacalLabs/BiblioPixel,768,Defect TD,Reliability
+199534889,ManageIQ/manageiq-ui-classic,97,Design TD,Maintainability
+593600024,ManageIQ/manageiq-ui-classic,6910,Design TD,Usability
+257056640,ManageIQ/manageiq-ui-classic,2168,Architectural TD,Maintainability
+255197230,ManageIQ/manageiq-ui-classic,2097,Architectural TD,Functional suitability
+134466077,ManageIQ/manageiq,6758,Code TD,Maintainability
+50541089,ManageIQ/manageiq,1139,Design TD,Maintainability
+149292924,m-enochroot/websync,6,Test TD,Maintainability
+177309644,madou/armory-services,39,Design TD,Usability
+188152406,madou/armory-app,111,Design TD,Maintainability
+144336501,macewanCS/DreamSolutions,153,Architectural TD,Maintainability
+440987822,macabeus/klo-gba.js,32,Design TD,Maintainability
+511814948,maar35/film-festival-planner,63,Design TD,Functional suitability
+1358857,lusis/Noah,12,Code TD,Maintainability
+76064567,lsecities/lsecities-wp-theme,83,Architectural TD,Maintainability
+280776939,Looped-Lines/builder.js,20,Test TD,Maintainability
+188051871,locationtech/geotrellis,1785,Code TD,Maintainability
+197529910,LLVM-but-worse/java-disassembler,16,Architectural TD,Maintainability
+389050662,LLK/scratch-paint,784,Defect TD,Reliability
+204725758,LeagueDevelopers/lol-skins-viewer,2,Test TD,Maintainability
+386979627,LD4P/sinopia_editor,231,Architectural TD,Maintainability
+338039745,krzema12/fsynth,10,Test TD,Maintainability
+361645739,KomodoPlatform/dicoapp-e,9,Code TD,Reliability
+615421904,kominetz/elite-tools,6,Architectural TD,Usability
+635563265,kinvolk/lokomotive,596,Design TD,Maintainability
+627401390,kinvolk/lokomotive,508,Architectural TD,Maintainability
+604795632,kinvolk/lokomotive,324,Architectural TD,Maintainability
+292245105,kevinpapst/kimai2,120,Test TD,Maintainability 
+555320070,Keeran10/CurriculumManagementSystem,217,Design TD,Maintainability 
+205317187,Kazuo256/luxproject,13,Design TD,Maintainability
+78058900,KazDragon/paradice9,150,Design TD,Maintainability
+410297911,Karambirov/GitHubSearch,41,Design TD,Maintainability
+747118824,ka-tautoro-2020/coject,2,Documentation TD,Maintainability
+501178516,kappnav/issues,36,Defect TD,Reliability
+485393209,kappnav/issues,20,Design TD,Compatibility
+551847499,jyn514/saltwater,201,Defect TD,Reliability
+247855000,jwplayer/jwplayer,2204,Design TD,Performance efficiency
+468425476,jsjoeio/mentored.dev,148,Design TD,Maintainability
+649772221,Joystream/joystream,864,Test TD,Maintainability
+665151204,joblike/joblike-service,9,Architectural TD,Maintainability
+389068692,jncc/topcat,346,Test TD,Maintainability
+213555780,jiweix/RESTful,11,Design TD,Usability
+213555688,jiweix/RESTful,10,Architectural TD,Usability
+615516572,javiertmezac/catalog-counts,2,Architectural TD,Reliability
+412626902,JamesLMilner/THREEAR,7,Architectural TD,Maintainability
+217649298,Jaffacakes82/ComplainTrain,2,Test TD,Maintainability
+610845175,ivarcode/schackmatt,17,Design TD,Maintainability
+366298621,ITUBIDB/cavabunga-lib,14,Design TD,Reliability
+369703561,ITDevLtd/MCVirt,349,Design TD,Maintainability
+738076185,IronCoreLabs/tenant-security-client-nodejs,21,Requirements TD,Functional suitability
+637569634,IronCoreLabs/ironoxide,166,Architectural TD,Portability
+706590078,ioet/time-tracker-ui,516,Architectural TD,Maintainability 
+648648916,ioet/time-tracker-ui,445,Test TD,Maintainability
+497331748,Inventory-Squad/inventory,10,Documentation TD,Maintainability
+364647521,inventory-squad-f18/inventory,6,Architectural TD,Maintainability
+169200760,instedd/planwise,121,Architectural TD,Maintainability
+488131339,input-output-hk/ouroboros-network,980,Architectural TD,Reliability
+562528738,input-output-hk/ouroboros-network,1609,Design TD,Functional suitability
+427656343,input-output-hk/cardano-ledger,398,Architectural TD,Maintainability
+741924625,influxdata/influxdb,20013,Design TD,Maintainability
+592072090,influxdata/influxdb,17541,Design TD,Usability
+401576550,influxdata/influxdb,11349,Design TD,Functional suitability
+717701959,igor-krupenja/zaino,437,Design TD,Functional suitability
+610111946,icgc-argo/workflow-search,62,Defect TD,Reliability
+31041192,icbat/tradesong,354,Build TD,Maintainability
+211809669,ianstormtaylor/slate,646,Design TD,Maintainability
+182323816,ianstormtaylor/slate,374,Architectural TD,Maintainability
+278721251,ianstormtaylor/slate,1442,Design TD,Maintainability
+603447311,iakunin/codexia-bot,55,Test TD,Maintainability
+552148293,HUU/Junction,28,Test TD,Maintainability
+663014668,huridocs/uwazi,3064,Defect TD,Reliability
+610027160,huridocs/uwazi,2894,Design TD,Maintainability
+426631514,huridocs/uwazi,2279,Defect TD,Reliability
+410289656,huridocs/uwazi,2184,Defect TD,Reliability
+429135526,hpi-swa/vivide,267,Design TD,Maintainability
+248358293,hpi-swa/vivide,211,Design TD,Maintainability
+374367885,honeypotio/website,7,Test TD,Maintainability
+411140682,Hive13/HiveWeb,252,Architectural TD,Reliability
+272295387,heketi/heketi,895,Test TD,Reliability
+499000405,HealthCatalyst/Fabric.Cashmere,1008,Architectural TD,Maintainability 
+360433994,hashicorp/terraform-provider-google,2056,Code TD,Functional suitability
+413841028,hashicorp/terraform-provider-aws,7679,Code TD,Maintainability
+313449976,hashicorp/terraform-provider-aws,4177,Design TD,Reliability
+758778131,hashicorp/terraform-provider-aws,16633,Architectural TD,Maintainability
+722490433,hashicorp/terraform-provider-aws,15662,Test TD,Maintainability
+703029380,hashicorp/terraform-provider-aws,15190,Design TD,Reliability
+621950466,hashicorp/terraform-provider-aws,13434,Documentation TD,Maintainability
+521027954,hashgraph/hedera-mirror-node,369,Test TD,Maintainability
+518796541,hashgraph/hedera-mirror-node,359,Architectural TD,Compatibility
+960049,HarmonyHacks/Dahlia,22,Design TD,Reliability
+287961175,hammer-io/yggdrasil,66,Design TD,Functional suitability
+332046664,gwu-libraries/scholarspace-hyrax,142,Infrastructure TD,Maintainability
+591478339,GreaterGamersLounge/bot_man,62,Design TD,Maintainability
+107375148,GrandComicsDatabase/gcd-django,76,Defect TD,Functional suitability
+209815574,GoogleCloudPlatform/google-cloud-eclipse,1467,Architectural TD,Maintainability
+198783599,GoogleCloudPlatform/google-cloud-eclipse,1181,Architectural TD,Maintainability
+194135877,GoogleCloudPlatform/google-cloud-eclipse,1071,Code TD,Reliability
+628509196,GoogleCloudPlatform/fda-mystudies,429,Infrastructure TD,Maintainability
+502006919,GoogleCloudPlatform/cloud-opensource-java,953,Versioning TD,Maintainability
+414112629,GoogleCloudPlatform/cloud-opensource-java,466,Versioning TD,Portability
+630795726,GoogleCloudPlatform/cloud-opensource-java,1441,Design TD,Functional suitability
+249470576,GoodGamery/mtgnewsbot,130,Design TD,Performance efficiency
+758534103,gnosis/safe-cmm-app-react,217,Defect TD,Reliability
+641659706,globalreachtech/tinyradius-netty,62,Design TD,Reliability
+202366560,girikuncoro/cageur,61,Infrastructure TD,Maintainability
+209415069,getredash/redash,1625,Architectural TD,Performance efficiency
+164466220,getquill/quill,431,Design TD,Reliability
+149742516,getquill/quill,326,Design TD,Maintainability
+741929195,geopm/geopm,1411,Requirements TD,Usability
+677200190,geopm/geopm,1234,Architectural TD,Maintainability
+297088332,gbif/pipelines,36,Design TD,Maintainability
+511627125,frc2052/FRC-Krawler,46,Architectural TD,Portability
+556294060,FoundationDB/fdb-kubernetes-operator,95,Design TD,Compatibility
+742378690,FoundationDB/fdb-kubernetes-operator,379,Code TD,Maintainability
+636576237,flutter/flutter,59205,Architectural TD,Maintainability 
+409258870,fluencelabs/fluence,433,Build TD,Maintainability
+33299144,flipside-org/penny-harvest,48,Design TD,Maintainability
+471503519,filipvanlaenen/tsvgj,10,Code TD,Maintainability
+202478831,fabric8-ui/fabric8-planner,798,Code TD,Maintainability
+388925835,ev3dev-lang-java/ev3dev-lang-java,607,Test TD,Functional suitability
+308288697,ev3dev-lang-java/ev3dev-lang-java,436,Design TD,Functional suitability
+123484627,esainane/quassel,14,Defect TD,Reliability
+383874430,Equibit/explorer,3,Architectural TD,Maintainability
+260486061,EPICmynamesBG/subito-bot,20,Design TD,Maintainability
+402077279,epic7tools/epicseven-tools,63,Design TD,Performance efficiency
+223119617,epam/Lagerta,165,Test TD,Reliability
+544797645,envoyproxy/envoy,9541,Defect TD,Reliability
+512195112,envoyproxy/envoy,8756,Architectural TD,Functional suitability
+421210996,envoyproxy/envoy,6288,Test TD,Maintainability
+393236422,envoyproxy/envoy,5382,Design TD,Maintainability
+367302778,envoyproxy/envoy,4617,Design TD,Maintainability
+367005716,envoyproxy/envoy,4605,Design TD,Maintainability
+262800090,envoyproxy/envoy,1808,Test TD,Maintainability
+260989602,envoyproxy/envoy,1754,Architectural TD,Maintainability 
+758775757,envoyproxy/envoy,14307,Design TD,Performance efficiency
+654305430,envoyproxy/envoy,11996,Test TD,Maintainability
+652656417,envoyproxy/envoy,11934,Architectural TD,Maintainability
+237670107,envoyproxy/envoy,1162,Test TD,Maintainability
+405442423,enterprise-data-foundation/delta-test,4,Architectural TD,Reliability
+198093938,ensime/ensime-vim,357,Defect TD,Usability
+155862903,ensime/ensime-vim,271,Test TD,Maintainability 
+582582493,enarx/enarx,336,Test TD,Security
+581911542,enarx/enarx,332,Documentation TD,Functional suitability
+465148272,elifesciences/elife-xpub,2242,Architectural TD,Portability
+331199013,elifesciences/elife-xpub,192,Architectural TD,Maintainability
+426442806,elifesciences/elife-xpub,1803,Defect TD,Reliability
+426435325,elifesciences/elife-xpub,1801,Architectural TD,Maintainability 
+406235641,elifesciences/elife-xpub,1437,Design TD,Reliability
+401774931,elifesciences/elife-xpub,1371,Test TD,Maintainability
+704665217,elastic/kibana,77958,Documentation TD,Usability
+666388274,elastic/kibana,73300,Design TD,Functional suitability
+648436134,elastic/kibana,70358,Architectural TD,Maintainability
+570162992,elastic/kibana,58411,Design TD,Maintainability 
+420494489,elastic/kibana,33123,Architectural TD,Maintainability
+417852427,elastic/kibana,32559,Architectural TD,Performance efficiency
+516069926,elastic/apm-agent-rum-js,473,Defect TD,Compatibility
+423140073,elastic/apm-agent-rum-js,220,Test TD,Maintainability
+504747719,elastic/apm-agent-java,881,Design TD,Maintainability
+642162594,edgexfoundry/edgex-go,2594,Architectural TD,Functional suitability
+758919834,edgexfoundry/app-service-configurable,146,Architectural TD,Maintainability
+380269725,eclipse/lemminx,219,Defect TD,Portability
+396139734,drkohlipk/vscode-run-npm-on-save,6,Documentation TD,Maintainability
+291903569,dotmesh-io/dotmesh,188,Test TD,Reliability
+656065357,dogger/app.dogger.io,464,Design TD,Performance efficiency
+697924350,docker/compose-cli,601,Code TD,Functional suitability
+697915381,docker/compose-cli,600,Code TD,Maintainability
+643794330,docker/compose-cli,265,Infrastructure TD,Maintainability
+589839201,dmt195/octopus_data,3,Architectural TD,Maintainability
+602606718,Division2Builder/division2builder,15,Design TD,Maintainability
+729725306,Dirk-tooth/appomatic,3,Architectural TD,Maintainability
+487223215,diem/diem,775,Architectural TD,Reliability
+523064813,diem/diem,1762,Test TD,Reliability
+323292144,dhiemstra/esi,26,Test TD,Maintainability
+431179443,devopsproducts/products,89,Test TD,Maintainability
+318720850,Devops-Wishlists/wishlists,106,Test TD,Maintainability
+528346887,devops-orders/orders,119,Design TD,Maintainability
+440492400,devops-inventory/inventory,110,Test TD,Maintainability 
+417115864,devopsfantasticfour/shopcarts,10,Documentation TD,Maintainability 
+317428065,DevOps-Customers-J2MN/customers,63,Infrastructure TD,Maintainability
+298685063,DevOps2018-Promotions/promotions,25,Test TD,Maintainability
+379982790,devops-customers-18/customers,71,Test TD,Maintainability 
+448185785,desktop/desktop,7627,Architectural TD,Maintainability
+403296314,desktop/desktop,6718,Design TD,Maintainability
+168137925,desktop/desktop,188,Architectural TD,Maintainability
+229185565,desktop/desktop,1522,Design TD,Reliability
+164573344,desktop/desktop,137,Architectural TD,Maintainability
+225581105,desktop/desktop,1342,Architectural TD,Reliability
+225581050,desktop/desktop,1341,Defect TD,Reliability
+740065446,dequelabs/axe-core,2632,Code TD,Maintainability
+727667843,dequelabs/axe-core,2589,Test TD,Maintainability
+687331624,dequelabs/axe-core,2497,Test TD,Maintainability
+610043136,department-of-veterans-affairs/va.gov-team,8596,Design TD,Maintainability
+600543982,department-of-veterans-affairs/va.gov-team,8050,Test TD,Maintainability
+549014850,department-of-veterans-affairs/va.gov-team,4774,Test TD,Maintainability 
+659297433,department-of-veterans-affairs/va.gov-team,11350,Defect TD,Reliability
+654048813,department-of-veterans-affairs/va.gov-team,11068,Architectural TD,Portability
+590453141,department-of-veterans-affairs/va.gov-cms,1361,Documentation TD,Maintainability
+625754308,department-of-veterans-affairs/notification-api,66,Design TD,Maintainability
+383548429,decentraland/marketplace-legacy,688,Code TD,Maintainability
+555143913,dcasadevall/tabletop-combat-helper,94,Design TD,Maintainability
+421978673,daviswhitehead/shayr-app,150,Design TD,Maintainability
+679866473,DaveJarvis/keenwrite,71,Design TD,Maintainability 
+335425776,datacamp/pythonwhat,294,Design TD,Reliability
+428356558,DataBiosphere/azul,862,Defect TD,Reliability
+734777603,DataBiosphere/azul,2403,Design TD,Reliability
+662100885,DataBiosphere/azul,2040,Design TD,Maintainability
+644824244,DataBiosphere/azul,1921,Versioning TD,Maintainability
+724808674,dart-lang/dartdoc,2396,Architectural TD,Maintainability
+748874117,daostack/alchemy,2277,Architectural TD,Performance efficiency
+149362505,DanGrew/JttDesktop,100,Architectural TD,Maintainability
+611130844,dan-solli/ottra,329,Requirements TD,Functional suitability
+540433964,ctoec/ecis-experimental,471,Design TD,Usability
+486361165,CSCfi/rems,1548,Design TD,Maintainability
+462798190,crossplane/crossplane,558,Defect TD,Security
+443574036,crossplane/crossplane,452,Test TD,Maintainability
+443222561,crossplane/crossplane,448,Architectural TD,Maintainability
+403389414,crossplane/crossplane,300,Defect TD,Reliability
+632783698,COVID-19-electronic-health-system/Corona-tracker,729,Code TD,Reliability
+705030167,corewa-rs/corewars,43,Documentation TD,Maintainability
+734010685,coopcycle/coopcycle-web,1887,Design TD,Maintainability
+709506600,coopcycle/coopcycle-web,1755,Design TD,Portability
+675572492,connorshea/vglist,1436,Design TD,Performance efficiency
+217082199,compumike08/GitHub_Status_API_GUI,45,Design TD,Functional suitability
+198067537,cloud-gov/cg-dashboard,885,Defect TD,Reliability
+195600486,cloud-gov/cg-dashboard,835,Design TD,Maintainability
+171020551,classmere/scraper,27,Requirements TD,Functional suitability
+106236778,classmere/ios,6,Infrastructure TD,Compatibility
+150331698,ckan/ideas,174,Architectural TD,Maintainability
+507517655,cityofaustin/techstack,3192,Requirements TD,Functional suitability
+601540009,Chroma-2D/Chroma,22,Architectural TD,Maintainability
+72433981,ChrisBAshton/smartresolution,78,Architectural TD,Maintainability
+172109669,chrisakakay/linden,19,Architectural TD,Maintainability
+487692175,census-instrumentation/opencensus-python,779,Design TD,Performance efficiency
+484075517,celo-org/celo-monorepo,704,Architectural TD,Maintainability
+471832170,celo-org/celo-monorepo,111,Architectural TD,Functional suitability
+522409756,celo-org/celo-blockchain,585,Infrastructure TD,Maintainability
+461214973,celo-org/celo-blockchain,304,Design TD,Functional suitability
+572864237,cds-snc/report-a-cybercrime,1599,Infrastructure TD,Maintainability
+571627671,cds-snc/report-a-cybercrime,1577,Design TD,Functional suitability
+569954255,cds-snc/report-a-cybercrime,1533,Architectural TD,Reliability
+561812598,cds-snc/report-a-cybercrime,1324,Requirements TD,Usability
+547035226,cds-snc/report-a-cybercrime,1051,Architechtral TD,Functional suitability
+557683526,CDL-Dryad/dryad-product-roadmap,635,Design TD,Performance efficiency
+318409631,BuiltonDev/order-widget,30,Code TD,Maintainability
+276000187,buildit/icarus,67,Architectural TD,Maintainability
+339223825,brianblakely/atlantis,36,Documentation TD,Maintainability
+375655440,brave-intl/publishers,1295,Design TD,Maintainability
+463488811,brakacai/discord-ghost,16,Test TD,Maintainability
+529273879,bradAnderson58/mmorpg,9,Test TD,Maintainability
+530470542,bradAnderson58/mmorpg,17,Architectural TD,Maintainability
+430207578,BookMyComics-Developers/BookMyComics,41,Test TD,Maintainability
+634975425,boa-dev/boa,466,Code TD,Performance efficiency
+5477186,blackberry/BB10-WebWorks-Framework,136,Architectural TD,Reliability
+5472359,blackberry/BB10-WebWorks-Framework,134,Design TD,Maintainability
+209569073,bkimminich/juice-shop-ctf,5,Test TD,Maintainability
+209569034,bkimminich/juice-shop,273,Test TD,Maintainability
+774103980,bkimminich/juice-shop,1542,Architectural TD,Maintainability
+618842355,biglotteryfund/blf-alpha,3367,Design TD,Maintainability
+603257849,bethlakshmi/gbe-divio-djangocms-python2.7,117,Design TD,Maintainability
+576206961,benetech/ServiceNet,860,Test TD,Maintainability 
+629109591,benetech/ServiceNet,1041,Defect TD,Functional suitability
+565609589,bcgov/ppr-deprecated,489,Design TD,Maintainability
+471225105,bcgov/entity,928,Test TD,Reliability
+749053353,bcgov/entity,5716,Design TD,Usability
+509276401,bcgov/entity,1587,Design TD,Maintainability
+551039739,bazelbuild/rules_scala,929,Design TD,Portability
+290167901,bartop-io/bartop,82,Architectural TD,Portability
+308222399,bartop-io/bartop,120,Infrastructure TD,Maintainability
+305725720,bartop-io/bartop,111,Test TD,Maintainability
+551510255,banzaicloud/pipeline,2652,Architectural TD,Maintainability
+620159599,Azure/azure-sdk-for-net,12138,Test TD,Maintainability
+375566774,Azure/azure-powershell,7705,Test TD,Compatibility
+323025583,Azure/azure-powershell,6211,Test TD,Maintainability
+294603253,Azure/azure-powershell,5452,Test TD,Maintainability
+323708075,azavea/cac-tripplanner,1042,Architectural TD,Maintainability
+303235031,azavea/cac-tripplanner,1004,Architectural TD,Reliability
+475279643,aws/aws-toolkit-vscode,713,Design TD,Maintainability
+205242358,Autodesk/orion-ui,106,Architectural TD,Maintainability
+383371916,AtlasOfLivingAustralia/profile-hub,659,Architectural TD,Maintainability
+117255939,AtlasOfLivingAustralia/profile-hub,196,Design TD,Usability
+502375762,AtlasOfLivingAustralia/biocollect-universal-android,28,Infrastructure TD,Maintainability
+425340522,aragon/client,661,Design TD,Maintainability 
+635668627,aragon/aragon-apps,1156,Architectural TD,Maintainability
+170787549,apicollective/ui,65,Code TD,Maintainability
+477464818,apache/trafficcontrol,3843,Design TD,Maintainability
+421393275,ANRDigital/ANR-Deck-Builder,54,Design TD,Maintainability
+25362631,andrey-p/apocalism-js,8,Design TD,Usability
+1653073,andrewkeller/REALbasic-Common-KFS-BSD,49,Test TD,Maintainability
+1653038,andrewkeller/REALbasic-Common-KFS-BSD,46,Architectural TD,Maintainability
+221516,andrewkeller/REALbasic-Common-KFS-BSD,3,Documentation TD,Maintainability
+377616340,amclin/aem-packager,29,Build TD,Maintainability
+14094353,alphagov/tagalog,9,Test TD,Maintainability
+162173189,alexandregama/mercado-pago-java-sdk,37,Design TD,Functional suitability
+499611078,Alek-S/SwiftSheet,93,Architectural TD,Maintainability 
+742627811,agrc/deq-enviro,409,Infrastructure TD,Maintainability
+179025189,agileseason/agileseason-v1,941,Design TD,Maintainability 
+93076870,agileseason/agileseason-v1,476,Architectural TD,Security
+680774368,Adventures-In/flireator,22,Design TD,Performance efficiency
+768200385,activecm/rita,597,Architectural TD,Performance efficiency
+138346250,AbundantCommunities/CommonGood,78,Architectural TD,Maintainability
+128642569,AbundantCommunities/CommonGood,16,Design TD,Usability
+721689192,AbsaOSS/spline-spark-agent,136,Test TD,Reliability
+389679952,4teamwork/opengever.core,5180,Design TD,Performance efficiency
+749774041,4sConsult/box4security,10,Architectural TD,Usability
+18595620,2martens/de.plugins-zum-selberbauen.ultimateCore,11,Design TD,Maintainability
+729897063,2020-nyu-devops/promotions,41,Design TD,Maintainability
+483658329,1Hive/apiary,39,Build TD,Performance efficiency
+230873580,18F/federalist,934,Architectural TD,Maintainability
+441328940,18F/federalist,2250,Build TD,Performance efficiency
+522874534,10PinesLabs/ruth,8,Architectural TD,Maintainability

@@ -1,0 +1,9 @@
+Relationship,Description
+COLLABORATOR,The issue reporter has been invited to collaborate on the repository.
+CONTRIBUTOR,The issue reporter has previously committed to the repository.
+FIRST_TIMER,The issue reporter has not previously committed to GitHub.
+FIRST_TIME_CONTRIBUTOR,The issue reporter has not previously committed to the repository.
+MANNEQUIN,The issue reporter is a placeholder for an unclaimed user.
+MEMBER,The issue reporter is a member of the organization that owns the repository.
+OWNER,The issue reporter is the owner of the repository.
+NONE,The issue reporter has no association with the repository.
