@@ -1,9 +1,11 @@
-This repository stores datasets and some data standards. There are three datasets: DS1,DS2 and DS3.
+This repository provides datasets and additional information for the paper "Technical Debt Management Based on Issues in OSS Development: An Empirical Study on GitHub."
 
-DS1 contains TD issues basic items after data cleaning，and label events and comment events related to these TD issues.
+There are three datasets: DS1, DS2, and DS3.
 
-DS2 covers the TD types and quality attribute that are involved in the specific TD issue.
+DS1 contains TD issues' basic items after data cleaning, and label events and comment events related to these TD issues.
 
-DS3 contains information about selected repositories, as well as basic items and reopened events about resolved TD and resolved non-TD issues of these repositories.
+DS2 covers the TD type of each TD issue and the quality attribute affected by the TD issue.
 
-In addition, the repository also displays the set of candidate TD labels to search TD issues in the paper (shown in TDlabelsChosen.csv) and the enumeration of the relationship between issue reporters and the repository (shown in RepoRelation.csv).
+DS3 contains information about selected repositories, as well as basic items and reopened events of resolved TD and non-TD issues of these repositories.
+
+In addition, the repository also provides the set of candidate TD labels to search TD issues in the paper (shown in TDlabelsChosen.csv) and the enumeration of the relationship between issue reporters and the repository (shown in RepoRelation.csv).
