@@ -1,4 +1,4 @@
-This repository provides datasets and additional information for the paper "Technical Debt Management Based on Issues in OSS Development: An Empirical Study on GitHub."
+This repository provides datasets and additional information for the paper "Technical Debt Management in OSS Projects: An Empirical Study on GitHub."
 
 There are three datasets: DS1, DS2, and DS3.
 
